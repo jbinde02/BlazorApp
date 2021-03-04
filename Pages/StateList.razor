@@ -1,0 +1,19 @@
+@page "/statelist"
+
+@using BlazorApp.Data
+
+<ul>
+    @foreach (string state in statesAndTerritoriesArray)
+    {  
+        <li>@state</li>
+        <ul>
+            <li><a href="https://en.wikipedia.org/wiki/@state" target="_blank"><button class="statebutton">Wikipedia</button></a></li>
+            <li>testing</li>
+            <li>replace this with a component maybe? </li>
+        </ul>
+    }
+</ul>
+
+@code{
+    string[] statesAndTerritoriesArray = States.statesAndTerritoriesArray;
+}
