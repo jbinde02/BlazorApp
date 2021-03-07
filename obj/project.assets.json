@@ -9,19 +9,19 @@
     ".NETFramework,Version=v5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Jabbe\\.nuget\\packages\\": {}
+    "C:\\Users\\Gabri\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jabbe\\OneDrive\\Documents\\School Work\\CIS 386\\BlazorApp\\BlazorApp.csproj",
+      "projectUniqueName": "C:\\Users\\Gabri\\Source\\Repos\\BlazorApp\\BlazorApp.csproj",
       "projectName": "BlazorApp",
-      "projectPath": "C:\\Users\\Jabbe\\OneDrive\\Documents\\School Work\\CIS 386\\BlazorApp\\BlazorApp.csproj",
-      "packagesPath": "C:\\Users\\Jabbe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jabbe\\OneDrive\\Documents\\School Work\\CIS 386\\BlazorApp\\obj\\",
+      "projectPath": "C:\\Users\\Gabri\\Source\\Repos\\BlazorApp\\BlazorApp.csproj",
+      "packagesPath": "C:\\Users\\Gabri\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gabri\\Source\\Repos\\BlazorApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Jabbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
