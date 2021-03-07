@@ -6,6 +6,7 @@ namespace BlazorApp.Helpers
   {
         /**
          * Format dates, apparently.
+         * Testing.
          */
     public static string formatedDate()
     {
