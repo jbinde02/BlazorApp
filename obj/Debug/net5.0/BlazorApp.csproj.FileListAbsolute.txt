@@ -116,3 +116,5 @@ C:\Users\Jabbe\OneDrive\Documents\School Work\CIS 386\BlazorApp\obj\Debug\net5.0
 C:\Users\Jabbe\OneDrive\Documents\School Work\CIS 386\BlazorApp\obj\Debug\net5.0\BlazorApp.csproj.CopyComplete
 C:\Users\Jabbe\OneDrive\Documents\School Work\CIS 386\BlazorApp\obj\Debug\net5.0\RazorDeclaration\Pages\StateList.razor.g.cs
 C:\Users\Jabbe\OneDrive\Documents\School Work\CIS 386\BlazorApp\obj\Debug\net5.0\Razor\Pages\StateList.razor.g.cs
+C:\Users\Jabbe\OneDrive\Documents\School Work\CIS 386\BlazorApp\obj\Debug\net5.0\RazorDeclaration\Pages\Apicalltest.razor.g.cs
+C:\Users\Jabbe\OneDrive\Documents\School Work\CIS 386\BlazorApp\obj\Debug\net5.0\Razor\Pages\Apicalltest.razor.g.cs

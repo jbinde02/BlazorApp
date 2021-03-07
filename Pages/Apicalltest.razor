@@ -1,0 +1,14 @@
+@page "/apicalltest"
+@using BlazorApp.Data
+
+<p>Hello</p>
+<button @onclick="Test">Test</button>
+
+@code
+{
+    private static void Test()
+    {
+        APIcaller.APIcall();
+        Console.WriteLine("Hello");
+    }
+}
